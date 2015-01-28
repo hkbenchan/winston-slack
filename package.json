@@ -1,6 +1,6 @@
 {
   "name": "winston-slack",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A winston extension that connects the log to Slack platform",
   "main": "./lib/winston-slack",
   "scripts": {
@@ -24,7 +24,7 @@
     "url": "https://github.com/ustbenchan/winston-slack/issues"
   },
   "homepage": "https://github.com/ustbenchan/winston-slack",
-  "engines" : {
+  "engines": {
     "node": ">= 0.8.0"
   },
   "dependencies": {
